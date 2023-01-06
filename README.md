@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=janiduxxx&label=Profile%20views&color=0e75b6&style=flat" alt="janiduxxx" /> </p>
 
+<img src="https://tryhackme-badges.s3.amazonaws.com/mrjanidu07.png" alt="TryHackMe">
+
 - 🔭 I’m currently working on **Hackthebox**
 
 - 🌱 I’m currently learning **TryHackMe , HacktheBox , W3schools**
