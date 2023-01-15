@@ -22,7 +22,7 @@
 - 📫 How to reach me **https://t.me/JaniyahXYZbot**
 
 - 📄 Know about my experiences [https://app.hackthebox.com/users/1218994](https://app.hackthebox.com/users/1218994)
-
+                               **https://tryhackme.com/p/mrjanidu07**
 - ⚡ Fun fact **I Think I am Funny Boy.**
 
 <h3 align="left">Connect with me:</h3>
